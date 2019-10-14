@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
         auto = findViewById(R.id.cb_2);
 
     }
-
+    //监听事件
     public void initListener() {
         mBtn_login.setOnClickListener(new View.OnClickListener() {
 
